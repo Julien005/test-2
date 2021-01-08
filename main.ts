@@ -1,7 +1,7 @@
 bluetooth.startLEDService()
 basic.showLeds(`
     . . # . .
-    . # # . .
+    . # . . .
     . . . # .
     # . . # .
     . . . . #
